@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.pdb

@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Registered Users";
+}
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">First Name: </th>
+      <th scope="col">Last Name: </th>
+      <th scope="col">Email: </th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var i in ViewBag.info) 
+    {
+    <tr>
+      <td>@i.first</td>
+      <td>@i.last</td>
+      <td>@i.email</td>
+    </tr>
+    }
+  </tbody>
+</table>
